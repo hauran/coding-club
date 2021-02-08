@@ -1,7 +1,6 @@
 {
   "name": "multiplication-chart",
   "version": "0.1.0",
-  "private": true,
   "homepage": "coding-club",
   "dependencies": {
     "gh-pages": "^3.1.0",

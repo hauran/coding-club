@@ -12,9 +12,8 @@ Where we learn the basics of programming.
    Example:
 
   ```javascript
-  var x = 3
-  var y
-  y = x + 2
+  var x = 3;
+  var y = x + 2;
   ```
 
   Both x and y are variables.  
@@ -26,9 +25,9 @@ Where we learn the basics of programming.
   Example:
   ```javascript
   function addNumbers(number1, number2) {
-    return number1 + number2
+    return number1 + number2;
   }
-  var y = addNumbers(1, 5)
+  var y = addNumbers(1, 5);
   ```
   _addNumbers_ is a function. _number1_ and _number2_ are the parameters.
 
@@ -36,7 +35,8 @@ Where we learn the basics of programming.
 
 # Our first project
 
-Our first project is a <span style="font-size:large;">[multiplication practice app 🔗](https://hauran.github.io/coding-club/)</span>. Refresh the page to get new problems.
+Our first project is a <span style="font-size:large;">[multiplication practice app 🔗](https://hauran.github.io/coding-club/)</span>.  
+Refresh the app to get new problems.
 <br/><br/>
 
 ## Questions
