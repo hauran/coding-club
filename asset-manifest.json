@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb4f04bc.chunk.css",
-    "main.js": "/static/js/main.5abebcf4.chunk.js",
-    "main.js.map": "/static/js/main.5abebcf4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a2bc28d1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a2bc28d1.js.map",
-    "static/js/2.0bd36dad.chunk.js": "/static/js/2.0bd36dad.chunk.js",
-    "static/js/2.0bd36dad.chunk.js.map": "/static/js/2.0bd36dad.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fb4f04bc.chunk.css.map": "/static/css/main.fb4f04bc.chunk.css.map",
-    "static/js/2.0bd36dad.chunk.js.LICENSE.txt": "/static/js/2.0bd36dad.chunk.js.LICENSE.txt"
+    "main.css": "/coding-club/static/css/main.fb4f04bc.chunk.css",
+    "main.js": "/coding-club/static/js/main.5abebcf4.chunk.js",
+    "main.js.map": "/coding-club/static/js/main.5abebcf4.chunk.js.map",
+    "runtime-main.js": "/coding-club/static/js/runtime-main.cdbbdc3c.js",
+    "runtime-main.js.map": "/coding-club/static/js/runtime-main.cdbbdc3c.js.map",
+    "static/js/2.0bd36dad.chunk.js": "/coding-club/static/js/2.0bd36dad.chunk.js",
+    "static/js/2.0bd36dad.chunk.js.map": "/coding-club/static/js/2.0bd36dad.chunk.js.map",
+    "index.html": "/coding-club/index.html",
+    "static/css/main.fb4f04bc.chunk.css.map": "/coding-club/static/css/main.fb4f04bc.chunk.css.map",
+    "static/js/2.0bd36dad.chunk.js.LICENSE.txt": "/coding-club/static/js/2.0bd36dad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2bc28d1.js",
+    "static/js/runtime-main.cdbbdc3c.js",
     "static/js/2.0bd36dad.chunk.js",
     "static/css/main.fb4f04bc.chunk.css",
     "static/js/main.5abebcf4.chunk.js"
