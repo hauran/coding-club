@@ -36,11 +36,11 @@ Where we learn the basics of programming.
 
 # Our first project
 
-Our first project is a <span style="font-size:large;">[multiplication practice app 🔗](https://hauran.github.io/coding-club/)</span>.
+Our first project is a <span style="font-size:large;">[multiplication practice app 🔗](https://hauran.github.io/coding-club/)</span>. Refresh the page to get new problems.
 <br/><br/>
 
 ## Questions
 
 - Looking at [this file 🔗](https://github.com/hauran/coding-club/blob/master/src/App.js), what are 2 functions and what do they do?
 - In the same file, what are some variables and what value do they represent?
-- What can we add to make this app better?
+- I can think of many ways to this app better. What are some of your ideas?
