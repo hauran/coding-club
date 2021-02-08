@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coding-club/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/coding-club/static/js/main.0b07ba40.chunk.js",
+    "main.js.map": "/coding-club/static/js/main.0b07ba40.chunk.js.map",
+    "runtime-main.js": "/coding-club/static/js/runtime-main.14cdc062.js",
+    "runtime-main.js.map": "/coding-club/static/js/runtime-main.14cdc062.js.map",
+    "static/js/2.0bd36dad.chunk.js": "/coding-club/static/js/2.0bd36dad.chunk.js",
+    "static/js/2.0bd36dad.chunk.js.map": "/coding-club/static/js/2.0bd36dad.chunk.js.map",
+    "static/js/3.8ba56ec2.chunk.js": "/coding-club/static/js/3.8ba56ec2.chunk.js",
+    "static/js/3.8ba56ec2.chunk.js.map": "/coding-club/static/js/3.8ba56ec2.chunk.js.map",
+    "index.html": "/coding-club/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/coding-club/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0bd36dad.chunk.js.LICENSE.txt": "/coding-club/static/js/2.0bd36dad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14cdc062.js",
+    "static/js/2.0bd36dad.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0b07ba40.chunk.js"
+  ]
+}
