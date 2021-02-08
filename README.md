@@ -22,7 +22,7 @@ Where we learn the basics of programming.
   <br/><br/>
 
 - ## function
-  A function is a set of organized, reusable code that is used to perform a single action. A function can accept parameters which are variables used in the function. A function can have no or as many parameters as needed. A function can return a value but does not have to.
+  A function is a set of organized, reusable code that is used to perform a single action. A function can haveparameters, which are essentially variables used in the function. A function can have no parameters or as many parameters as needed.  
   Example:
   ```javascript
   function addNumbers(number1, number2) {
