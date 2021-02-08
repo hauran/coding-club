@@ -1,33 +1,35 @@
 import './App.css'
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 
-const MIN = 2
-const MAX = 12
+var MIN = 2
+var MAX = 12
 
-const randomNumber = () => {
-  const min = Math.ceil(MIN)
-  const max = Math.floor(MAX)
+function randomNumber() {
+  var min = Math.ceil(MIN)
+  var max = Math.floor(MAX)
   return Math.floor(Math.random() * (max - min) + min) //The maximum is exclusive and the minimum is inclusive
 }
 
-const generateMathProblem = () => {
-  const num1 = randomNumber()
-  const num2 = randomNumber()
-  const answer = num1 * num2
+function mathProblem() {
+  var num1 = randomNumber()
+  var num2 = randomNumber()
+  var answer = num1 * num2
   return `${num1} x ${num2} = ${answer}`
 }
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Multiplication Problems</h1>
-        <h2>{generateMathProblem()}</h2>
-        <h2>{generateMathProblem()}</h2>
-        <h2>{generateMathProblem()}</h2>
-        <h2>{generateMathProblem()}</h2>
-        <h2>{generateMathProblem()}</h2>
+    <div className="app">
+      <header className="header">
+        <h1>Let's do some multiplication!</h1>
       </header>
+      <div>
+        <h2>{mathProblem()}</h2>
+        <h2>{mathProblem()}</h2>
+        <h2>{mathProblem()}</h2>
+        <h2>{mathProblem()}</h2>
+        <h2>{mathProblem()}</h2>
+      </div>
     </div>
   )
 }

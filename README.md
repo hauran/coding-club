@@ -1,13 +1,15 @@
 # Welcome to Coding Club
 
-We will be going over the basics of programming.
+Where we learn the basics of programming.
 
 ### What we have covered so far:
+
+<br/>
 
 - ## variable
 
   A variable is a symbol that represents a value.  
-  Example:
+   Example:
 
   ```javascript
   var x = 3
@@ -15,11 +17,12 @@ We will be going over the basics of programming.
   y = x + 2
   ```
 
-  both x and y are variables.  
-  _what is the value of y?_
+  Both x and y are variables.  
+   _what is the value of y?_
+  <br/><br/>
 
 - ## function
-  A function is a set of organized, reusable code that is used to perform a single action. A function can accept parameters which are variables used in the function. A function can have no or as many parameters as needed.  
+  A function is a set of organized, reusable code that is used to perform a single action. A function can accept parameters which are variables used in the function. A function can have no or as many parameters as needed. A function can return a value but does not have to.
   Example:
   ```javascript
   function addNumbers(number1, number2) {
@@ -33,6 +36,11 @@ We will be going over the basics of programming.
 
 # Our first project
 
-Our first project is a multiplication learning app.
+Our first project is a <span style="font-size:large;">[multiplication practice app 🔗](https://hauran.github.io/coding-club/)</span>.
+<br/><br/>
 
-You can visit the app in its current state [here 🔗](https://hauran.github.io/coding-club/).
+## Questions
+
+- Looking at [this file 🔗](https://github.com/hauran/coding-club/blob/master/src/App.js), what are 2 functions and what do they do?
+- In the same file, what are some variables and what value do they represent?
+- What can we add to make this app better?
